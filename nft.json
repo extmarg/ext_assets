@@ -1,16 +1,16 @@
 {
   "name": "TST Collection",
   "description": "Best Collection",
-  "image": "https://example.com/1.jpg",
-  "external_url": "https://example.com",
+  "image": "https://raw.githubusercontent.com/extmarg/ext_assets/refs/heads/main/pixel.png",
+  "external_url": "https://www.testnet-nft.com",
   "attributes": [
     {
-      "trait_type": "trait1",
-      "value": "value1"
+      "trait_type": "height",
+      "value": "345"
     },
     {
-      "trait_type": "trait2",
-      "value": "value2"
+      "trait_type": "weight",
+      "value": "533"
     }
   ],
   "properties": {

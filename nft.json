@@ -1,6 +1,6 @@
 {
-  "name": "TST Collection",
-  "description": "Best Collection",
+  "name": "TST Name from JSON",
+  "description": "Best Collection from JSON",
   "image": "https://raw.githubusercontent.com/extmarg/ext_assets/refs/heads/main/pixel.png",
   "external_url": "https://www.testnet-nft.com",
   "attributes": [
